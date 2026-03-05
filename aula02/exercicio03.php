@@ -1,9 +1,9 @@
 <?php
     $numero = 55; 
     if ($numero % 2 == 0) {
-        echo "Esse número é par";
+        echo "O número $numero é par";
     }else{
-        echo "Esse número é ímpar";
+        echo "O número $numero é ímpar";
     }
 
 
