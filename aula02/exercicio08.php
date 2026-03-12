@@ -1,7 +1,7 @@
 <?php
     $numero = 7;
 
-    echo "Tabuada do $numero:\n <br>";
+        echo "Tabuada do $numero:\n <br>";
 
     for ($i = 1; $i <= 10; $i++) {
         $resultado = $numero * $i;

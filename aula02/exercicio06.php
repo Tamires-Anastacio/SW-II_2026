@@ -4,5 +4,5 @@
     for ($i = 1; $i <= 50; $i++) {
         $soma += $i;
     }
-    echo "A soma total de 1 a 50 é:" . $soma;
+        echo "A soma total de 1 a 50 é:" . $soma;
 ?>
